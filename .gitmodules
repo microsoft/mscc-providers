@@ -1,0 +1,3 @@
+[submodule "PowerPlatformConnectors"]
+	path = PowerPlatformConnectors
+	url = https://github.com/microsoft/PowerPlatformConnectors.git
