@@ -1,14 +1,14 @@
-# Project
+# Microosft Supply Chain Center and Dynamics 365 Intelligent Order Management Providers
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+## Overview
 
-As the maintainer of this project, please make a few updates:
+This project is a collabaration with the community on providers for Microsoft Supply Chain Center and Dynamics 365 Intelligent Order Management.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+Providers are a collection of Provider Schema, Connection References, Power Automates, Parameters and Power Query Transformations. These providers allow you to communicate with external systems to retrieve related data and transform it into a format that is understood by Dataverse.
+
+## Sample Code
+
+All contributions to this project, including those from the community and Microsoft are considered sample code. Sample code can vary in levels of production readiness, and it is up to the person or entity who uses these providers to deploy these to a test environment, modify them, and ensure their level of readiness before deploying these into a production system.
 
 ## Contributing
 
