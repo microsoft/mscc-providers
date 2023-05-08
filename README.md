@@ -1,4 +1,4 @@
-# Microosft Supply Chain Center and Dynamics 365 Intelligent Order Management Providers
+# Microsoft Supply Chain Center and Dynamics 365 Intelligent Order Management Providers
 
 ## Overview
 
